@@ -1,1 +1,1 @@
-App Link: https://jaybhatt1995-resume-screening-app-streamlit-app-tqx6or.streamlit.app/
+App Link: https://jay-bhatt-resume-screening.streamlit.app/
