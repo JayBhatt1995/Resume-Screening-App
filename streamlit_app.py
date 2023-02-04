@@ -7,6 +7,9 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import nltk
 
+nltk.download('stopwords')
+nltk.download('punkt')
+
 stop_words = set(stopwords.words("english"))
 
 st.title("Resume Screening Portal")
